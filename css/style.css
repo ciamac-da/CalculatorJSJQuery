@@ -1,11 +1,11 @@
 .back{
-    background-color: coral;
+    background-color: darkgoldenrod;
 }
 
 input[type=button]
     {
         padding: 0px;
-        border-bottom:4px solid saddlebrown; 
+        border-bottom:4px solid black; 
         height: 50px;
         width: 80px;
         
@@ -13,7 +13,7 @@ input[type=button]
 input[type=reset]
 {
     padding: 0px;
-        border-bottom:4px solid saddlebrown; 
+        border-bottom:4px solid black; 
         height: 50px;
         width: 80px;
 }
@@ -30,9 +30,10 @@ input[type=text]
         margin:0px auto;
         height: 350px;
         width: 367px;
-        background-color:thistle;
+        background-color:gray;
         border-radius:12px;
-        border-bottom:4px solid saddlebrown; 
+        border-bottom:4px solid black; 
+        margin-top: 90px;
     }
 #xoxo{
     float: left;
